@@ -117,7 +117,7 @@ keywords: [
     ],
     favicon: "../public/favicon.ico",
     locale: "en-US",
-    type: "website",
+   
   },
   
   robots: {
