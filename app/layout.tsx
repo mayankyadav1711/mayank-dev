@@ -102,22 +102,19 @@ keywords: [
 ],
 
   colorScheme: "dark",
-  openGraph: {
-    title: "Mayank Yadav ",
-    description:
-      "Founder & Developer at ColleGPT || MERN STACK Developer || React Js Developer || Student at LDRP Institute of Technology & Research.",
-    
+   openGraph: {
+    type: 'website',
+    url: 'https://mayank-dev.vercel.app',  // Add your website URL here
+    title: 'Mayank Yadav',
+    description: 'Founder & Developer at ColleGPT || MERN STACK Developer || React Js Developer || Student at LDRP Institute of Technology & Research.',
     images: [
       {
-        url: "https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/Untitled%20design.svg?alt=media&token=731112fd-2f4f-4a7e-b189-d844f89ebfb6",
+        url: 'https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/Untitled%20design.svg?alt=media&token=731112fd-2f4f-4a7e-b189-d844f89ebfb6',
         width: 1200,
         height: 630,
-        alt: "Mayank Yadav",
+        alt: 'Mayank Yadav',
       },
     ],
-    favicon: "../public/favicon.ico",
-    locale: "en-US",
-   
   },
   
   robots: {
