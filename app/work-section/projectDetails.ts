@@ -39,7 +39,7 @@ export const devProjects = [
       "🥉Secured 3rd prize in a State Level Poster Competition by presenting our innovative idea through an engaging poster.",
     technologies: ["Idea", "Innovation", "Impact"],
     github: "",
-    demo: "https://anonymous-murex.vercel.app/",
+    demo: "https://www.linkedin.com/posts/divyakaurani_teamwork-achievementunlocked-unitebharat-ugcPost-7165752486736117760-qmgl?utm_source=share&utm_medium=member_desktop",
     image: require(".//../../public/projects/poster.jpg"),
     available: true,
   },
