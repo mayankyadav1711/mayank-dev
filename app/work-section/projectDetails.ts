@@ -164,4 +164,27 @@ export const devProjects = [
     image: require(".//../../public/projects/fitbite.jpg"),
     available: true,
   },
+  {
+    id: 14,
+    name: "MMPSRPC",
+    description: 
+      "🚀 Led a team to develop a dynamic Student Research and Project Cell website with an admin dashboard, streamlining research and project management.",
+    technologies: [ "React.js", "Node.js", "MongoDB"],
+    github: "https://www.mmpsrpc.in/",
+    demo: "https://www.mmpsrpc.in",
+    image: require(".//../../public/projects/mmpsrpc.png"),
+    available: true
+  },
+  {
+    id: 15,
+    name: "Saarthi",
+    description: 
+      "🚀 Developed an Alumni Engagement Platform that bridges the gap between students and alumni through mentorship, networking, and career opportunities.",
+    technologies: [ "React.js", "Node.js", "MongoDB"],
+    github: "https://www.youtube.com/watch?v=64OEl6a2mr8",
+    demo: "https://saarthi-alumni.vercel.app",
+    image: require(".//../../public/projects/saarthi.jpeg"),
+    available: true
+  },
+
 ];
